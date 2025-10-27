@@ -6,8 +6,6 @@ description: Lecture presentation on noncooperative cell behavior, individual ce
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/9580886fef93c7f2667f722ccccebca9_MIT20_441JF09_lec13_iy.pdf
 file_size: 3890129
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

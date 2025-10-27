@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course objective and information on
   meeting times, prerequisites, textbook and readings, homework sets, grading, and
   the schedule of lecture topics, lecturers, and homework due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

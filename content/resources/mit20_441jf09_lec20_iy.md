@@ -6,8 +6,6 @@ description: Lecture presentation on the simplest synthetic pathways, symbolism 
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/1b598648d601e9b9dec228f611f980d9_MIT20_441JF09_lec20_iy.pdf
 file_size: 2916062
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

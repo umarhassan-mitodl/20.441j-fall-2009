@@ -5,8 +5,6 @@ description: Lecture presentation on the anatomy of skin, sensors in the skin, t
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/7ca07f707c6ce4cd29f26db1548c2f96_MIT20_441JF09_lec18a_iy.pdf
 file_size: 1834143
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

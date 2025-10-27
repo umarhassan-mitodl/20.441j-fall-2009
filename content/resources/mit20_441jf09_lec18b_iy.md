@@ -6,8 +6,6 @@ description: Lecture presentation on induced regeneration, synthesis of epidermi
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/5b0c621a0bc47f226b43bb5c25dcdc88_MIT20_441JF09_lec18b_iy.pdf
 file_size: 413517
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,8 +6,6 @@ description: Lecture presentation on the cell and its membrane molecules, viewin
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/56f7bcf7bea068834241b132a5453f4e_MIT20_441JF09_lec02a_ms.pdf
 file_size: 1286599
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

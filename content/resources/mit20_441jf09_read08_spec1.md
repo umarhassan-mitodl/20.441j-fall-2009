@@ -8,8 +8,6 @@ description: Lecture notes on surface characteristics related to chemical bondin
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/a060fe5c253f6c53fc6b0be14e9a0085_MIT20_441JF09_read08_spec1.pdf
 file_size: 68839
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

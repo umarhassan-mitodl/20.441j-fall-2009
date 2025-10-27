@@ -7,8 +7,6 @@ description: Lecture presentation on cell-scaffold interactions during regenerat
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/5bf36b7f4bec38cc2e73c39ee43413a5_MIT20_441JF09_lec12_iy.pdf
 file_size: 4001200
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

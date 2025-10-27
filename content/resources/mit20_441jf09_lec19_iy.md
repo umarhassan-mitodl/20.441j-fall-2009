@@ -8,8 +8,6 @@ description: Lecture presentation on the anatomy and function of a peripheral ne
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/47064105baea1f9e6e628dee21b1f325_MIT20_441JF09_lec19_iy.pdf
 file_size: 4064988
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

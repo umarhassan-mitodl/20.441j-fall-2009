@@ -5,8 +5,6 @@ description: Lecture presentation on unit cell processes, cell adhesion molecule
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/f03722b07cad34b1f51bf9d5d113b80d_MIT20_441JF09_lec02d_ms.pdf
 file_size: 3360489
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

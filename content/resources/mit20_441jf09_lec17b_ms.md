@@ -5,8 +5,6 @@ description: Lecture presentation on epithelialization (epidermal regeneration) 
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/3a543104757343cf65c99dc22ce975cc_MIT20_441JF09_lec17b_ms.pdf
 file_size: 998830
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

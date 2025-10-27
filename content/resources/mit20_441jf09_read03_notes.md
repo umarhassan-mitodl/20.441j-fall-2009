@@ -5,8 +5,6 @@ description: Lecture notes on unit cell processes in the tissue environment, def
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/6dbd6ca916ddc3f9cdd653a2a05fd5e3_MIT20_441JF09_read03_notes.pdf
 file_size: 263874
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -7,8 +7,6 @@ description: Lecture presentation on the structural determinants of biologically
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/79132699a884dab335de90429554566b_MIT20_441JF09_lec10_iy.pdf
 file_size: 2255156
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

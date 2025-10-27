@@ -5,8 +5,6 @@ description: Lecture presentation on the formation of soft tissue and bone aroun
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/8aff3f07f4982e5a9fe6792647498265_MIT20_441JF09_lec03b_ms.pdf
 file_size: 4482281
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

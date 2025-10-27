@@ -6,8 +6,6 @@ description: Lecture presentation on unit cell processes underlying tissue engin
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/567cb2f7b2b3551444edf29100d68ed7_MIT20_441JF09_lec04_ms.pdf
 file_size: 7902657
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

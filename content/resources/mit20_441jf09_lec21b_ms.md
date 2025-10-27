@@ -5,8 +5,6 @@ description: Lecture presentation on orthopaedic joint replacement prostheses an
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/033ded6cfe2e7a4051d41a6dd244fed9_MIT20_441JF09_lec21b_ms.pdf
 file_size: 10407850
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

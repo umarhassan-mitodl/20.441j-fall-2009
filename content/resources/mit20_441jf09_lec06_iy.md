@@ -5,8 +5,6 @@ description: Lecture presentation on reversible and irreversible injury,  the ex
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/5f5e795a3d588990e11b17e386f23b4b_MIT20_441JF09_lec06_iy.pdf
 file_size: 714900
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

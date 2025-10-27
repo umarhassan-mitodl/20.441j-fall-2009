@@ -7,8 +7,6 @@ description: 'Lecture presentation on how biomaterials are used, five therapies 
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/f3eae92a63d0d95ffac3cabadfa1fb10_MIT20_441JF09_lec01_iy.pdf
 file_size: 4411227
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains exams files for the course along with a sample
   problem solved in class.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

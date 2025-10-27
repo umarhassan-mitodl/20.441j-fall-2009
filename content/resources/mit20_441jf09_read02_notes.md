@@ -7,8 +7,6 @@ description: Lecture notes on tissue composition, cells, insoluble extracellular
 file: /courses/20-441j-biomaterials-tissue-interactions-fall-2009/07c5538a19e73c8e38eb21066ddb16d9_MIT20_441JF09_read02_notes.pdf
 file_size: 109932
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
